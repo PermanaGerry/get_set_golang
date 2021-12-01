@@ -1,7 +1,7 @@
 package inter
 
 import (
-	"test_pointer/model"
+	"get_set_golang/model"
 )
 
 type InterfaceRepoNota interface {

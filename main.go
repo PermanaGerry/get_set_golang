@@ -3,7 +3,7 @@ package main
 import (
 	"encoding/json"
 	"fmt"
-	"test_pointer/repository"
+	"get_set_golang/repository"
 )
 
 var ident repository.RepositoryUser

@@ -1,8 +1,8 @@
 package repository
 
 import (
-	"test_pointer/inter"
-	"test_pointer/model"
+	"get_set_golang/inter"
+	"get_set_golang/model"
 )
 
 type InterfaceNota struct {
